@@ -1,0 +1,15 @@
+C:\Users\ryanm\source\repos\FrangoZe\bin\Debug\net8.0\FrangoZe.Domain.deps.json
+C:\Users\ryanm\source\repos\FrangoZe\bin\Debug\net8.0\FrangoZe.Domain.runtimeconfig.json
+C:\Users\ryanm\source\repos\FrangoZe\bin\Debug\net8.0\FrangoZe.Domain.dll
+C:\Users\ryanm\source\repos\FrangoZe\bin\Debug\net8.0\FrangoZe.Domain.pdb
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.csproj.AssemblyReference.cache
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.AssemblyInfoInputs.cache
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.AssemblyInfo.cs
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.sourcelink.json
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.dll
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\refint\FrangoZe.Domain.dll
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.pdb
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\FrangoZe.Domain.genruntimeconfig.cache
+C:\Users\ryanm\source\repos\FrangoZe\obj\Debug\net8.0\ref\FrangoZe.Domain.dll
